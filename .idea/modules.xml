@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tradelink-customers/api/api.iml" filepath="$PROJECT_DIR$/tradelink-customers/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tradelink-customers/lib/lib.iml" filepath="$PROJECT_DIR$/tradelink-customers/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project-t.iml" filepath="$PROJECT_DIR$/.idea/project-t.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tradelink-customers/tradelink-customers.iml" filepath="$PROJECT_DIR$/tradelink-customers/tradelink-customers.iml" />
+    </modules>
+  </component>
+</project>
