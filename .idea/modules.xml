@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/tradelink-customers/api/tradelink-customer-api.iml" filepath="$PROJECT_DIR$/tradelink-customers/api/tradelink-customer-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/tradelink-customers/tradelink-customers.iml" filepath="$PROJECT_DIR$/tradelink-customers/tradelink-customers.iml" />
       <module fileurl="file://$PROJECT_DIR$/tradelink-customers/lib/tradelink-customers-lib.iml" filepath="$PROJECT_DIR$/tradelink-customers/lib/tradelink-customers-lib.iml" />
+
     </modules>
   </component>
 </project>

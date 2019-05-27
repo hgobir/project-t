@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86ed7d41-dd39-4f4a-9ccf-d153a52a6aab" name="Default Changelist" comment="" />
+    <list default="true" id="86ed7d41-dd39-4f4a-9ccf-d153a52a6aab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microservices_tradelink_lib_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fish_payara_extras_payara_embedded_web_4_1_2_174.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradelink-customers/lib/lib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradelink-customers/lib/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/tradelink-customers/target/" />
     <ignored path="$PROJECT_DIR$/tradelink-customers/lib/target/" />
     <ignored path="$PROJECT_DIR$/tradelink-customers/api/target/" />
@@ -18,6 +27,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tradelink-customers/api/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -27,6 +41,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="10725">
               <caret line="715" column="46" selection-start-line="715" selection-start-column="46" selection-end-line="715" selection-end-column="46" />
+
             </state>
           </provider>
         </entry>
@@ -82,6 +97,16 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+        <option value="$PROJECT_DIR$/tradelink-customers/pom.xml" />
+        <option value="$PROJECT_DIR$/tradelink-customers/api/pom.xml" />
+        <option value="$PROJECT_DIR$/tradelink-customers/lib/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,6 +121,24 @@
             <path>
               <item name="project-t" type="b2602c69:ProjectViewProjectNode" />
               <item name="tradelink-customers" type="462c0819:PsiDirectoryNode" />
+              <item name="project-t" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-t" type="462c0819:PsiDirectoryNode" />
+              <item name="tradelink-customers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-t" type="462c0819:PsiDirectoryNode" />
+              <item name="tradelink-customers" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-t" type="462c0819:PsiDirectoryNode" />
+              <item name="tradelink-customers" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,6 +159,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31925344" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,6 +214,7 @@
       <method v="2" />
     </configuration>
   </component>
+
   <component name="SvnConfiguration">
     <configuration>$PROJECT_DIR$/../.subversion</configuration>
   </component>
@@ -192,6 +242,7 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" sideWeight="0.5020325" side_tool="true" weight="0.27110156" />
+
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="DB Browser" order="4" />
@@ -236,6 +287,15 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tradelink-customers/api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradelink-customers/lib/lib.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tradelink-customers/pom.xml">
@@ -250,6 +310,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tradelink-customers/lib/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+        <state relative-caret-position="645">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradelink-customers/lib/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -290,6 +361,7 @@
         </settings>
       </state>
       <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
           <splitter-proportions>

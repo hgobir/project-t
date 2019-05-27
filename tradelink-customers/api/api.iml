@@ -12,10 +12,23 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: com.microservices.tradelink:tradelink-customers-lib:1.0.0-SNAPSHOT" level="project" />
+
+    <output url="file://$MODULE_DIR$/../api/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../api/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../api">
+      <sourceFolder url="file://$MODULE_DIR$/../api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../api/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../api/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../api/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.microservices.tradelink:lib:1.0.0-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax:javaee-api:7.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.sun.mail:javax.mail:1.5.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.activation:activation:1.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: fish.payara.extras:payara-embedded-web:4.1.2.174" level="project" />
     <orderEntry type="library" name="Maven: com.h2database:h2:1.4.196" level="project" />
+
   </component>
 </module>
