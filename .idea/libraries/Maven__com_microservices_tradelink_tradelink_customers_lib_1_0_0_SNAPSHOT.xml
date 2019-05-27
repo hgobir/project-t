@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.microservices.tradelink:tradelink-customers-lib:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microservices/tradelink/tradelink-customers-lib/1.0.0-SNAPSHOT/tradelink-customers-lib-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/tradelink-customers/lib/tradelink-customers-lib-1.0.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/microservices/tradelink/tradelink-customers-lib/1.0.0-SNAPSHOT/tradelink-customers-lib-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/tradelink-customers/lib/tradelink-customers-lib-1.0.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/microservices/tradelink/tradelink-customers-lib/1.0.0-SNAPSHOT/tradelink-customers-lib-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
